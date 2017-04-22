@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_ef15d62ce8a9ad57ea498ba799b9ec56dc0faaeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4ee7f93104d4ec233d292b28e29af0d82f4c8e7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_e939cf5677f437bfa2190acbd97267a64d1e6d72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.jakewharton.rxbinding-rxbinding-0.4.0_d983b6b8efc1f695b7e360b0a5b6bac85b64e7ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_26d11714d045395a794e87a1ef4239386db96876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_09b24adf1a68d879c71bdfdb8095963b16d2b868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_f64f13bf23bbae27cd7cadd58625bf3928151572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f8f4fd188f7d40b921a0d5acbf2c6aeef98d5fa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_93b4f8ecc01301b0499ca6471fd882e347cd2798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.6/de0c509ae6c9db5b5b6004a9d102c92708346f7c/rxjava-1.2.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de0c509ae6c9db5b5b6004a9d102c92708346f7c">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/rxjava-1.2.6_7308a312c06f5ef0a4f979b876f777792842061f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af88697e8c4e13da8c8b2e4042d5f5d82f0ba9d1">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/instant-run_e6a35f3aa935acb1990e9f0c1ec72301f6aefb7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="225cbf4a3d5c3fd2976d146a04ffcb1feeadb725">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f876273c12c9e270ce9ae67ef0141d19dd31f8a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_bd76e2482bd090091bb97b84c1a2daba6ac7a56e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_0b6247d5e9411f9ca47e78caf1368017fcad1487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/javax.inject-1_9b2edb65be7b74cdb8a3cfdc319b57f793670e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/dagger-2.8_4e4c35b97c7c31c4438fad53887c8913326211ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.2.2/baseLibrary-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e3519b9d5287840df40776a8268ae336ca9f063">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.2_7ed53c723ae13fdba19a1b45153e478d184e8ae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_8debaf38c929bc82d1aa70677d99cef36f76f397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_975711941c164d66e765e3385798103f03924d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-7.8.0_c08942c59725280b03d0b96b23217005a29e37d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_fc7b6e4dd567028e1efa3174313ef472af5fb5e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-7.8.0_6d39e98c9c366c4c740ce1b9adf0765a6f410026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_ae1e9942b5143456aa906dd71929a1eda7f90b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-7.8.0_78de932533b96e0e1195a82e37159bd217cfe8d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_333e4294722dddb91f29a087d021de7848283b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_ba40d1360b7dd291cbed2d9c4f25473e4272ee38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/glide-3.7.0_d0caf5cb32c79f1536a037434a5a0d6c4651a38c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/gson-2.7_8ce0e6196da1c0409a205a33db4e064d3e89384c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_324e6cb39c4e5a29557d927cddc79ab8741ea267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_ba7a77f5a841f6c74c122e99aedb8564c99e4365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_329f441fa4ae7ed409ede1942c19541e17532070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_d74037253778c89b284eb8c793125322d150d8c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-appcompat-v7/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.jakewharton.rxbinding-rxbinding-appcompat-v7-0.4.0_1836d798bd2adfb46eb4520c73b53d5d95ee99f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.6.0/81887458b69ddc32722df7e4c35235fd74e6a8ba/logging-interceptor-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.6.0_3820b65d6fa643e6ca8f963cf25b19d7dfb52bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/okio-1.11.0_a2e8153587591a78fcf52bd014938f56ff1047c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a18cd05df980007c928fa332fcb73e28fd444002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.1_737bf035f387008b5a8a16ca296f0e1a5ae8bdb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_995df916c46b299e3d6b74f81865e572e2d4fea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.3/d2f725668bd22e21170381b23f8fbdf72c69d886/rxjava-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d2f725668bd22e21170381b23f8fbdf72c69d886">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/rxjava-2.0.3_f3537417b8f07e75a1ceb36f2ea83bcedea1571e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_c7eb86baab6e34fa28a17ba8164324e520c3b40f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_9e01d7d379a0d3e14fb74e6a030a363a28338312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a5eb7423bed099f1a1570f6f19e3f0c18f8e08d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding-support-v4/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="417b075934c24fa45ba94be0f451fd6dec69feb8">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.jakewharton.rxbinding-rxbinding-support-v4-0.4.0_bf96cfb6d81b5792be59cd83e1dda495aebc5061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Downloads/Mosques/app/build/intermediates/exploded-aar/com.f2prateek.rx.preferences2/rx-preferences/2.0.0-RC1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f9bff5eae664897cf82e9d9dd305a70c628326f">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/com.f2prateek.rx.preferences2-rx-preferences-2.0.0-RC1_0ea346b504a2f5e661dbe589b2c89486926898c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_1ffbf1ea034acb025d1add185a980706c7e56ee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/domikado/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/domikado/Downloads/Mosques/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_b26c6dca1d64cb44a6909f9f2c81a50b00ce6e84.jar" />
+    </item>
+
+</items>
